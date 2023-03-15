@@ -34,7 +34,7 @@ body {
     text-align: center;
     width: 40px;
   }
-  
+   
   .square:focus {
     outline: none;
   }
